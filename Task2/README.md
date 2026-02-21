@@ -15,10 +15,10 @@ NARRATIVE: (I know you mentined that you mainly wanted help with code)
       - Within your coding block you may want comments that describe your more detailed steps.
 EDA Plots:
 
-      Structure your plots so they tell a story. Start with the benzene distribution itself, then explore relationshps with sensors, then weather, and finally examine time.  (Histogram, density, and time series of C6H6 alone)
+      Structure your plots so they tell a story. Start with the benzene distribution itself  (Histogram, density, and time series of C6H6 alone), then explore relationshps with sensors, weather, and finally examine ome temporal relationships.  You have some of these (histogram with temperature). You have one with dates (but change your title because it says temperature).
       
   Consider including some of the following: 
-      - plots of C6H6 in relation to WEATHER: C6H6 vs Temperature (T), C6H6 vs RH, C6H6 vs AH
+      - plots of C6H6 in relation to WEATHER alone: C6H6 vs Temperature (T), C6H6 vs RH, C6H6 vs AH 
       
       - plots of C6H6 in relation to TIME: Seasonal patterns (winter vs summer differences), Hourly differences (Rush hour vs 3 am)
       
