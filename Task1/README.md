@@ -9,5 +9,5 @@ Feedback from Linda Zier:
   Alana - this looks great. I think you may just need to add more of a narrative at the start explaining your task and goal.  
 
 
-- Feedback giver #2
-  + item
+- Feedback from Joshua McClure:
+  Joshua - I agree with Alana both the code and the instructions are well rounded
