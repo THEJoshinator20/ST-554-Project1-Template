@@ -10,4 +10,4 @@ Feedback from Linda Zier:
 
 
 - Feedback from Joshua McClure:
-  Joshua - I agree with Alana both the code and the instructions are well rounded
+  Joshua - I agree with Linda both the code and the instructions are well rounded. I have nothing too much to add here.
