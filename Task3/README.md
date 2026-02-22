@@ -8,5 +8,5 @@ Please replace “Feedback giver #x” with a group member’s name below and ad
   + item
 
 
-- Feedback giver #2
-  + item
+- Feedback from Joshua McClure
+- What is shown here is great. The plots and models are done well. If anything maybe describing what some of the plots mean would be good. How do certain things refelct back on the data.
