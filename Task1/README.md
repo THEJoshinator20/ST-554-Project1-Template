@@ -7,6 +7,7 @@ Please replace “Feedback giver #x” with a group member’s name below and ad
 Feedback from Linda Zier:
 
   Alana - this looks great. I think you may just need to add more of a narrative at the start explaining your task and goal. I was also going to tell you to use LATEX to make your formulas pretty, but I see you've done that now.  :) 
+  Update: Now that you have added more narrative, this flows well and your explanations are clear. You comment your code appropriately. Your code looks solid. Nice work!
 
 
 - Feedback from Joshua McClure:
