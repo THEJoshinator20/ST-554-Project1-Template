@@ -27,5 +27,12 @@ EDA Plots:
 I hope this helps.  Good luck and reach out if you need more help.
 
 
-- Feedback giver #2
-  + item
+- Feedback from Alana Pooler
+  + I like the color palettes used in the plots- very visually pleasing.
+  + Could be worth splitting up code chunks a bit more- some of them are very long, and the outputs are very long as well.
+  + Good use of axis labeling and titles for plots, easy to understand what I am looking at.
+  + Some plots, mainly the ones with legends, could be bigger to allow more space for the legends.
+  + Good commenting throughout cell blocks to explain the code.
+  + Great explanations of results, very thorough and easy to understand.
+  + Several different methods used to investigate relationships between variables.
+  + Overall, very good work, good narrative throughout the notebook and the exploration is thorough.  
